@@ -1,1 +1,1 @@
-<h1>Sandbox Enterprise Docker Build Working</h1>
+<h1>${env.APP_MESSAGE}</h1>
